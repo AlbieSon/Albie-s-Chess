@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Albie\'s Chess</string>
+    <string name="nav_play">Play</string>
+    <string name="nav_train">Train</string>
+    <string name="nav_history">History</string>
+    <string name="nav_customize">Studio</string>
+    <string name="start_guess_the_move">Start Guess the Move</string>
+    <string name="stop_guess_the_move">Stop Guess the Move</string>
+    <string name="guess_prompt">Tap or drag your best move to compare with the engine</string>
+    <string name="engine_thinking">Engine analyzing…</string>
+    <string name="pause_and_save">Pause &amp; Save</string>
+    <string name="offer_draw">Draw</string>
+    <string name="resign_game">Resign</string>
+    <string name="export_pdf">Export PDF</string>
+    <string name="print_pdf">Print Score Sheet</string>
+    <string name="share_pdf">Share to Email / Drive</string>
+    <string name="analyze_game">Analyze Match</string>
+    <string name="resume_game">Resume Match</string>
+    <string name="new_game">New Match</string>
+</resources>

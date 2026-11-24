@@ -1,0 +1,6 @@
+{
+  "name": "Albie's Chess",
+  "description": "Offline tournament chess trainer featuring a high-strength Stockfish-class engine, Guess the Move accuracy scoring with visual arrows, evaluation bar, competition clocks, post-game analysis, Elo rating evaluation, and PDF score sheet export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
